@@ -1,19 +1,15 @@
 ---
 layout: page
-title: About Pixyll
+title: About Flack{er}.to Hacker
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+This blog was created to track my transition from PR professional to software engineer.  
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+It's a coding blog, but here and there you may read my random musings about media, marketing, advertising, and publishing.
 
-Thanks to the following:
+You can read more about me here:
+[LinkedIn](http://www.linkedin.com/in/jakewengroff)
+[GitHub](http://www.github.com/jakewengroff)
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+
