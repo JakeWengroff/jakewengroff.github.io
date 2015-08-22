@@ -17,14 +17,14 @@ show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname:   Flacker
 
 # Social icons
 github_username:  JakeWengroff
 stackoverflow_id:
 twitter_username: JakeWengroff
 google_plus_id:
-linkedin_username: 
+linkedin_username:
 angellist_username:
 bitcoin_url:
 paypal_url:
