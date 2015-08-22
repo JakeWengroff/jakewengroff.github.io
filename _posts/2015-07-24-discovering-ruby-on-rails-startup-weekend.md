@@ -4,6 +4,7 @@ title:      An Intro to Ruby at Startup Weekend
 date:       2015-07-24 15:31:19
 summary:    I never even heard of Ruby on Rails when I participated -- and won -- Startup Weekend Miami.
 categories: ruby rails
+comments:   true
 ---
 
 I had no idea that my coding journey would begin at [Startup Weekend Miami](http://www.up.co/communities/usa/miami/startup-weekend/1073) almost three years ago.
@@ -32,7 +33,4 @@ With my PR career having made a surprise turn just 3 months earlier, this was ju
 This blog will cover parts of my journey -- the thrills, discoveries and surprises -- and of course, what I'm learning.  I have a feeling I'll be learning for a long time.
 
 On that Sunday evening of Startup Weekend Miami, we all gathered for a 'class picture.'  Here I am, in the front row, wearing the bright orange polo shirt:
-![StartupWeekend](http://miamiherald.typepad.com/.a/6a00d83451b26169e2017c328acc12970b-pi) 
-
-
-
+![StartupWeekend](http://miamiherald.typepad.com/.a/6a00d83451b26169e2017c328acc12970b-pi)
