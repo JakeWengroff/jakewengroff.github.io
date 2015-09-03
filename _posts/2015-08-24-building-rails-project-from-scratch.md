@@ -2,7 +2,7 @@
 layout:     post
 title:      Building a Rails Project from Scratch
 date:       2015-08-24 15:09:41
-summary:    A constant, pesky LoadError prevents me from generating Rails projects. What to do?
+summary:    A constant, pesky LoadError keeps preventing me from generating Rails projects. What to do?
 categories: ruby rails
 comments:   true
 ---

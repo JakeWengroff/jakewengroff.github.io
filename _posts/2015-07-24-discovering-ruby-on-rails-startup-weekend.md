@@ -2,7 +2,7 @@
 layout:     post
 title:      An Intro to Ruby at Startup Weekend
 date:       2015-07-24 15:31:19
-summary:    I never even heard of Ruby on Rails when I participated -- and won -- Startup Weekend Miami.
+summary:    I never even heard of Ruby on Rails when I participated in -- and won -- Startup Weekend Miami.
 categories: ruby rails
 comments:   true
 ---
