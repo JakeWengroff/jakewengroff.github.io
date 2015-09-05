@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How I Learned To Stop Kvetching and Finally Love Git
+title:      How I Learned to Stop Kvetching and Finally Love Git
 date:       2015-09-02 15:09:41
 summary:    It was invisible and kept throwing me errors, so why do so many developers swear by it?
 categories: ruby rails git
@@ -59,7 +59,7 @@ But of course, as with all error messages, what does any true programmer do in t
 <h3>Learning by Breaking Things</h3>
 Funny story, I didn't really break anything other than my patience or ego, but some of you may have had this same experience when you first learned to code:  A few times, I would push a branch to GitHub, then switch the branch on the command line.  
 
-I would then go back to the text editor -- I was using Sublime Text at the time (btw, please someone out there, tell me I am NOT the only junior developer who paid $70 for the full license to Sublime!) -- and exclaim, Holy @#$%&!, What happened to my other version? It was gone! 
+I would then go back to the text editor -- I was using Sublime Text at the time (btw, please someone out there, tell me I am NOT the only junior developer who paid $70 for the full license to Sublime!) -- and exclaim, Holy @#$%&!, What happened to my other version? It was gone!
 
 I would freak out, get frustrated, break a sweat, and then -- yes, you guessed it -- *re-enter all of the changes* to make it look like the version I thought I lost, and then save.
 
