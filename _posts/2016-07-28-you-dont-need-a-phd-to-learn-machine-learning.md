@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      You Don't Need a Ph.D. to Learn Machine Learning
-date:       2016-07-29 12:00:00
+date:       2016-07-28 12:00:00
 summary:    Data scientists do not usually create their own algorithms: what a relief.
 categories: data-science
 comments:   true
