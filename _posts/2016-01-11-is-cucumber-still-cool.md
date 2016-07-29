@@ -2,7 +2,7 @@
 layout:     post
 title:      Is Cucumber Still Cool?
 date:       2016-01-11 09:09:41
-summary:    It's all about Behavioral Driven Development, after all
+summary:    It's all about Behavioral Driven Development, after all.
 categories: ruby rails
 comments:   true
 ---
