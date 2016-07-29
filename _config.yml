@@ -49,7 +49,8 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-include:      _portfolio
+include:
+  - _portfolio
 paginate:     4
 future:       true
 sass:
