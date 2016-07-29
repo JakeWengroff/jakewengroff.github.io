@@ -51,7 +51,9 @@ redcarpet:
 permalink:    pretty
 include:      _portfolio
 paginate:     4
+future:       true
 sass:
   compressed: true
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
